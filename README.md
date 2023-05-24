@@ -1,6 +1,6 @@
-### Hi there! 
-### I'm a Senior Undergraduate Electrical Engineering Student at the University of Washington.
-### I specialize in Embedded Systems and VLSI/IC Design.
+Hi there! 
+I'm a Senior Undergraduate Electrical Engineering Student at the University of Washington.
+I specialize in Embedded Systems and VLSI/IC Design.
 
 <!--
 **Phokust/Phokust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
